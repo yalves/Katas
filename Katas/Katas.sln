@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katas.StringCalculation", "Katas.StringCalculation\Katas.StringCalculation.csproj", "{31051B13-124A-488A-902F-6478663B0B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.StringCalculation.Tests", "Kata.StringCalculation.Tests\Kata.StringCalculation.Tests.csproj", "{2B3C0B7D-8C3A-4CCB-A36B-1B23BEF024BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31051B13-124A-488A-902F-6478663B0B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31051B13-124A-488A-902F-6478663B0B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31051B13-124A-488A-902F-6478663B0B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31051B13-124A-488A-902F-6478663B0B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3C0B7D-8C3A-4CCB-A36B-1B23BEF024BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3C0B7D-8C3A-4CCB-A36B-1B23BEF024BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3C0B7D-8C3A-4CCB-A36B-1B23BEF024BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3C0B7D-8C3A-4CCB-A36B-1B23BEF024BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B80E15-5565-4416-8376-B2A545B9A7F7}
+	EndGlobalSection
+EndGlobal
